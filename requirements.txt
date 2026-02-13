@@ -1,4 +1,0 @@
-requests
-ta==0.11.0
-matplotlib
-streamlit 
